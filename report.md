@@ -4,7 +4,7 @@
 Откроем папку, в которой хотим создать файл.
 ![Screenshot 2024-09-18 181800](https://github.com/user-attachments/assets/0d870344-c338-4fc3-b822-aa244299defe)
 
-Создадим новый файл bash.
+Создадим новый файл с расширением bash.
 ![Screenshot 2024-09-18 181921](https://github.com/user-attachments/assets/8be63ffa-f053-4baa-b16d-5fabc85ca27b)
 
 Откроем его в текстовом редакторе.
