@@ -6,3 +6,5 @@
 ![Screenshot 2024-09-18 181921](https://github.com/user-attachments/assets/8be63ffa-f053-4baa-b16d-5fabc85ca27b)
 Откроем его в текстовом редакторе
 ![Screenshot 2024-09-18 181921](https://github.com/user-attachments/assets/cb474c1e-ecb4-4f42-9953-914a02e72e24)
+Введём скрипт и сохраним
+![Screenshot 2024-09-18 182319](https://github.com/user-attachments/assets/fe2f1dac-d58a-471d-be3e-bf97fe89f764)
